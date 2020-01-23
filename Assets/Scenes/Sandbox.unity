@@ -1449,7 +1449,7 @@ GameObject:
   - component: {fileID: 1328778014}
   - component: {fileID: 1328778016}
   - component: {fileID: 1328778015}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Foreground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2747,10 +2747,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 838205896, guid: 2a26a50a66bcafb49bd51237592fdf46, type: 3}
-      propertyPath: m_Constraints
-      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2a26a50a66bcafb49bd51237592fdf46, type: 3}
